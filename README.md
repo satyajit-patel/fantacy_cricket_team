@@ -1,4 +1,4 @@
-![plot](./IPL.png)
+![plot](./IPL.jpg)
 
 # Web Scraping and Linear Programming with Premier League
 
